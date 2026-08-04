@@ -1,0 +1,5 @@
+__pycache__/
+*.pt
+data/
+out_ft/
+.DS_Store
